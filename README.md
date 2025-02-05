@@ -17,4 +17,13 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/niaopian/niaopian/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+
+```markdown
+From: 28 January 2025 - To: 04 February 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
