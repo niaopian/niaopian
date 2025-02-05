@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://raw.githubusercontent.com/niaopian/niaopian/refs/heads/output/github-contribution-grid-snake.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
