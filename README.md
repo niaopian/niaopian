@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
 Total Time: 1 hr
 
