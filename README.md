@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 20 June 2026 - To: 27 June 2026
+From: 22 June 2026 - To: 29 June 2026
 
 Total Time: 0 secs
 
